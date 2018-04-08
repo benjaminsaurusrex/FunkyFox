@@ -2,6 +2,8 @@
 
 Just my personal config repo for my [WhiteFox TrueFox](https://input.club/whitefox/) keyboard.
 
+![layout.png]
+
 #### Flashing
 
 To flash this configuration on your own WhiteFox, clone the repo and run `dfu-util` on a flash-ready WhiteFox TrueFox keyboard to start using it today!
