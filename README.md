@@ -2,7 +2,7 @@
 
 Just my personal config repo for my [WhiteFox TrueFox](https://input.club/whitefox/) keyboard.
 
-![layout.png]
+![Layout](layout.png)
 
 #### Flashing
 
